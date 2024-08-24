@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 import CoinTable from './components/CoinTable'
 import Navbar from './components/Navbar/Navbar'
 
