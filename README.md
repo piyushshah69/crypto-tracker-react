@@ -1,6 +1,6 @@
 # React + Vite
 
-(Live preview)[https://crypto-tracker-coingecko.netlify.app/]
+[Live preview](https://crypto-tracker-coingecko.netlify.app/)
 
 ## Install dependencies:
 ``` npm install ```
